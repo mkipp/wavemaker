@@ -1,11 +1,11 @@
 # Wavemaker
 
-This is a little tool for the [Processing](http://processing.org) language/environment.
-After starting Processing, open the Wavemaker.pde file.
+_This is a tool for the [Processing](http://processing.org) language/environment.
+After starting Processing, open the Wavemaker.pde file._
 
-The tool combines three sine waves into a single wave 
-in a linear combination, i.e. each wave
-in integrated based on a "weight" (between 0 and 1). A technial detail:
+The tool combines three sine waves into a single wave. This is done
+through a linear combination, i.e. each wave
+is integrated based on an individual _weight_ (between 0 and 1). A technial detail:
 When computing the combined wave the three weights are normalized such that
 they add up to 1.
 
