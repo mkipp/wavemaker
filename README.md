@@ -25,12 +25,6 @@ You switch on/off the three underlying waves with the keys 1, 2 and 3.
 
 ---
 
-Created by
-
-Michael Kipp
-
-Professor for Computer Science
-
-[Interactive Media](https://www.hs-augsburg.de/interaktive-medien)
+Created by Michael Kipp, Professor for Computer Science
 
 [Augsburg University of Applied Sciences](http://hs-augsburg.de)
