@@ -10,8 +10,8 @@ they add up to 1.
 
 You can modify the three underlying waves using the cursor keys.
 
-[Wavemaker screenshot](wavemaker1.png)
+![Wavemaker screenshot](wavemaker1.png)
 
 You switch on/off the three underlying waves with the keys 1, 2 and 3.
 
-[Wavemaker screenshot with all three waves visible](wavemaker2.png)
+![Wavemaker screenshot with all three waves visible](wavemaker2.png)
