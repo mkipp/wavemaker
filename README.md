@@ -3,7 +3,7 @@
 This is a little tool for the [Processing](http://processing.org) language/environment.
 After starting Processing, open the Wavemaker.pde file.
 
-The tool combines three sine waves into a single wave
+The tool combines three sine waves into a single wave 
 in a linear combination, i.e. each wave
 in integrated based on a "weight" (between 0 and 1). A technial detail:
 When computing the combined wave the three weights are normalized such that
