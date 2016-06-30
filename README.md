@@ -22,3 +22,15 @@ that there is a single sine curve on screen, 2 means it is twice as wide etc.
 You switch on/off the three underlying waves with the keys 1, 2 and 3.
 
 ![Wavemaker screenshot with all three waves visible](wavemaker2.png)
+
+---
+
+Created by
+
+Michael Kipp
+
+Professor for Computer Science
+
+[Interactive Media](https://www.hs-augsburg.de/interaktive-medien)
+
+[Augsburg University of Applied Sciences](http://hs-augsburg.de)
